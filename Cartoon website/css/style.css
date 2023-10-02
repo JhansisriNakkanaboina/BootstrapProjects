@@ -1,0 +1,61 @@
+body
+{
+   font-family: Verdana, sans-serif;
+}
+
+.img-round
+{
+    border-radius: 50%;
+}
+
+.new
+{
+    background-size: cover;
+}
+
+.nav-link
+{
+    font-weight: bold;
+}
+
+.bb
+{
+    background-image: url(../images/shin1.jpg);
+    height: 70%;
+    width: 100%;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+a.ha
+{
+    opacity: 0.8;
+}
+
+.kick1
+{
+    background-image: url('../images/kickpic1.jpg');
+    width: 100vw;
+    height: 300px;
+    background-image: cover;
+    opacity: 0.8;
+}
+
+.nana
+{
+    background-image: url('../images/kid1.jpg');
+    height: 180px;
+    width: 100%;
+}
+
+.coclo
+{
+    color: blueviolet;
+}
+
+.nnn
+{
+    background-color: rgb(207, 206, 206);
+    padding: 11px;
+    border-radius: 50%;
+}

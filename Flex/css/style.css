@@ -1,0 +1,22 @@
+.b
+{
+    background-image: url('../images/backgroundImage.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+
+.bottom-section
+{
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 21px;
+    border-top-right-radius: 21px;
+    border-top-left-radius: 21px;
+}
+
+.spa
+{
+    font-weight: bold;
+    color: red;
+}

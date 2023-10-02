@@ -1,0 +1,42 @@
+body
+{
+  margin-top: 100px;
+}
+
+.tb
+{
+  margin: 11px;
+  height: 51px;
+  width: 600px;
+  border-radius: 11px;
+  border: none;
+  box-shadow: 1px 1px 2px 3px rgb(184, 121, 243);
+}
+
+.tb:hover
+{
+  margin: 11px;
+  height: 51px;
+  width: 600px;
+  border-radius: 11px;
+  border: none;
+  box-shadow: 0px 0px 2px 3px rgb(184, 121, 243);
+}
+
+.lab
+{
+  font-weight: 500;
+  margin: 11px;
+  color: blueviolet;
+}
+
+.btn
+{
+  margin: 11px;
+  background-color: blueviolet;
+}
+
+.fom
+{
+    margin-left: 101px;
+}
