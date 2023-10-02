@@ -1,0 +1,51 @@
+.new1
+{    
+    font-weight: 300;
+    margin-top: 21px;
+    text-align: center;
+}
+
+.lolo
+{
+    height: 230px;
+    width: 300px;
+    border: 0.5px solid rgb(168, 167, 167);
+    background-color: rgb(246, 247, 248);
+    border-radius: 5px;
+    padding-left: 3px;
+}
+
+.tete
+{
+    height: 35px;
+    width: 280px;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+    border: 0.5px solid rgb(173, 172, 172);
+    background-color: white;
+}
+
+.hehe
+{
+    height: 35px;
+    width: 280px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 11px;
+    border-radius: 11px;
+}
+
+.hhah
+{
+    height: 50px;
+    width: 300px;
+    border: 0.5px solid rgb(181, 181, 181);
+    margin-top: 9px;
+    border-radius: 5px;
+}
+
+label, .ss
+{
+    font-size: 13px;
+}

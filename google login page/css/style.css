@@ -1,0 +1,94 @@
+.navitems
+{
+    text-decoration: none;
+    color: black;
+    padding: 9px;
+}
+
+.navitems:hover
+{
+    text-decoration: underline;
+    color: black;
+    padding:9px;
+    cursor: pointer;
+}
+
+.navbar1
+{
+    padding-top: 16px;
+    padding-right: 11px;
+    text-align: right;
+}
+
+.new1
+{
+    background-color: white;
+    height: 100vh;
+    text-align: center;
+    
+}
+
+.google
+{
+    font-size: 100px;
+    font-weight: 600;
+}
+
+.text-box
+{
+    padding: 11px 201px;
+    border-radius: 21px;
+    border: none;
+}
+
+.text-box:hover
+{
+    padding: 11px 201px;
+    border-radius: 21px;
+    border: none;
+}
+
+span
+{
+    padding: 0px;
+}
+
+.text-red
+{
+    color: rgb(228, 6, 6);
+}
+
+.text-blue
+{
+    color: rgb(5, 5, 219);
+}
+
+.text-green
+{
+    color: rgb(4, 184, 4);
+}
+
+.text-yellow
+{
+    color: rgb(222, 222, 4);
+}
+
+.mm
+{
+    margin-top: 100px;
+}
+
+.b1:hover
+{
+    background-color: rgb(211, 209, 209) !important;
+}
+
+.new2
+{ 
+   border: 0.5px solid rgb(191, 191, 190);
+}
+
+.new2:hover
+{ 
+   border: 0.5px solid rgb(191, 191, 190);
+}

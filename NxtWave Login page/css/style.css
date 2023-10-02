@@ -1,0 +1,57 @@
+.suc
+{
+    color: orange;
+}
+
+.tit
+{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+.login
+{
+    height: 350px;
+    width: 450px;
+    margin:auto;
+    border: 0.5px solid rgb(171, 170, 170);
+    border-radius: 11px;
+    padding: 21px;
+    background-color: white;
+}
+
+.inp
+{
+    width: 100%;
+    padding: 8px;
+    border-radius: 11px;
+    border: 0.5px solid rgb(206, 205, 205);
+}
+
+.getotp
+{
+    width: 100%;
+    padding: 8px;
+    text-align: center;
+    border-radius: 11px;
+    background-color: rgb(233, 232, 232);
+    color: rgb(196, 196, 196);
+}
+
+.part1
+{
+    padding: 11px;
+    margin: 0px;
+    height: 100vh;
+    background-color: rgb(244, 244, 253);
+}
+
+.part2
+{
+    height: 100vh;
+}

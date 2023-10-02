@@ -1,0 +1,81 @@
+.part1
+{
+    background-color: white;
+   
+}
+
+.part2
+{
+    background-color: rgb(240, 237, 237);
+    height: 100vh;
+}
+
+.fb
+{
+    border: none;
+    background-color: navy;
+    color: white;
+    padding: 5px 21px;
+    border-radius: 5px;
+    margin: 3px;
+    opacity: 0.6;
+}
+
+.gg
+{
+    border: 0.5px solid red;
+    padding: 5px 21px;
+    border-radius: 5px;
+    margin: 3px;
+}
+
+.ha
+{
+    color: rgb(251, 251, 255);
+}
+
+.he
+{
+    color: red;
+}
+
+.input-icons i {
+    position: absolute;
+}
+  
+.input-icons {
+    width: 60%;
+}
+  
+.icon {
+    padding: 10px;
+    min-width: 40px;
+    margin-top: 6px;
+    font-size: 21px;
+}
+  
+.input-field {
+    padding: 8px 3px 8px 21px;
+    width: 169%;
+    text-align: left;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    
+}
+
+.txt
+{
+    font-size: 31px;
+}
+
+.cc
+{
+    color: red !important;
+    opacity: 0.8;
+}
+
+.cb
+{
+    background-color: red !important;
+    opacity: 0.8;
+}
